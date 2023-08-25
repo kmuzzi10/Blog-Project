@@ -1,0 +1,1 @@
+this is ablog website where we create our own blog api and fetch data from api to a server in index.js there is api and server.js this is backend code for this
